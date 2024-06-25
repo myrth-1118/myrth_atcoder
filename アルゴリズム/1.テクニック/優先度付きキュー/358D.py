@@ -1,6 +1,5 @@
 # 優先度付きキュー
 import heapq
-from collections import defaultdict
 N, M = map(int,input().split())
 A = list(map(int,input().split()))
 B = list(map(int,input().split()))
